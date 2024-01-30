@@ -4,7 +4,7 @@
 
 ⚡ Fun facts about me:
 * I can type at 80 WPM using [one hand](https://youtube.com/shorts/L4qHOcTEYSc)
-* I have a video with [5.1 million views](https://web.archive.org/web/20230818182129/https://gfycat.com/colorfulterribleblackrhino-graphing-calculator-minecraft)
+* I have videos with [2.8 million views](https://web.archive.org/web/20230818230534/https://gfycat.com/politicalalarmedgreatwhiteshark-minecraft) and [5.1 million views](https://web.archive.org/web/20230818182129/https://gfycat.com/colorfulterribleblackrhino-graphing-calculator-minecraft) (takes a while to load, they are on the Internet Archive because the host shut down)
 * I have a [PC Gamer article](https://www.pcgamer.com/this-minecraft-3d-graphing-calculator-is-hypnotic-and-beautiful/) written on one of my projects!
 
 🔭 I'm currently working on:
