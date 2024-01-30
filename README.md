@@ -8,7 +8,7 @@
 * I have a [PC Gamer article](https://www.pcgamer.com/this-minecraft-3d-graphing-calculator-is-hypnotic-and-beautiful/) written on one of my projects!
 
 🔭 I'm currently working on:
-* 🔥 [Blastfurnace](https://github.com/hanmindev/blastfurnace/), a [Ingot](https://hanmin.dev/ingot-docs/) to .mcfunction transpiler for Minecraft
+* 🔥 [Blastfurnace](https://github.com/hanmindev/blastfurnace/), a [Ingot](https://hanmin.dev/ingot-docs/) to .mcfunction compiler for Minecraft
 * 🕺 [MCMV Core](https://github.com/hanmindev/mcmv_core), a C++ port of my Python-based 3D armature animation converter
 * 🗓️ [Almanac](https://github.com/Almanac-team/almanac/), a smart, AI calendar project, coming soon...
 * 👋👀 Secret project, coming soon...
