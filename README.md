@@ -8,14 +8,13 @@
 * I have a [PC Gamer article](https://www.pcgamer.com/this-minecraft-3d-graphing-calculator-is-hypnotic-and-beautiful/) written on one of my projects!
 
 🔭 I'm currently working on:
+* 🔥 [Blastfurnace](https://github.com/hanmindev/blastfurnace/), a [Ingot](https://hanmin.dev/ingot-docs/) to .mcfunction transpiler for Minecraft
 * 🕺 [MCMV Core](https://github.com/hanmindev/mcmv_core), a C++ port of my Python-based 3D armature animation converter
-* 🧭 [Lodestone](https://github.com/Lodestone-Team), a server hosting tool for games
-* ⌨️ [Mirrorboard](https://github.com/hanmindev/mirrorboard), a one-handed typing solution for improved productivity
-* 🔥 [Blastfurnace](https://github.com/hanmindev/blastfurnace/), a [Ingot](https://hanmin.dev/ingot-docs/) to .mcfunction transpiler for Minecraft, coming soon...
 * 🗓️ [Almanac](https://github.com/Almanac-team/almanac/), a smart, AI calendar project, coming soon...
 * 👋👀 Secret project, coming soon...
 
 💎 Some past, notable projects:
+* ⌨️ [Mirrorboard](https://github.com/hanmindev/mirrorboard), a one-handed typing solution for improved productivity
 * 💭 [Lucid](https://devpost.com/software/lucid-ai-95nerk), text to video generator, Hack the North 2022 Winner
 * 🗣️ [Pitch.ai](https://devpost.com/software/pitch-ai), speech to slide presentation maker, nwHacks 2022 1st Place
 * 🧠 [Habifix](https://devpost.com/software/habifix), AI powered habit breaker, Hack the 6ix 2021 3rd Place
