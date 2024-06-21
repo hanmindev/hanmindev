@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Hanmin Kim](https://hanmin.dev/)
 * I'm a Computer Science student at the University of Toronto St. George Campus
-* I'm joining ROBLOX as a Software Engineering Intern this summer! Previously, I was a Software Engineering Intern at Graycore.
+* I'm currently at ROBLOX as a Software Engineer Intern. I'll be joining Citadel as a Software Engineering Intern in the fall.
 
 ⚡ Fun facts about me:
 * I can type at 80 WPM using [one hand](https://youtube.com/shorts/L4qHOcTEYSc)
