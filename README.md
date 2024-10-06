@@ -10,8 +10,6 @@
 🔭 I'm currently working on:
 * 🔥 [Blastfurnace](https://github.com/hanmindev/blastfurnace/), a [Ingot](https://hanmin.dev/ingot-docs/) to .mcfunction compiler for Minecraft
 * 🕺 [MCMV Core](https://github.com/hanmindev/mcmv_core), a C++ port of my Python-based 3D armature animation converter
-* 🗓️ [Almanac](https://github.com/Almanac-team/almanac/), a smart, AI calendar project, coming soon...
-* 👋👀 Secret project, coming soon...
 
 💎 Some past, notable projects:
 * ⌨️ [Mirrorboard](https://github.com/hanmindev/mirrorboard), a one-handed typing solution for improved productivity
